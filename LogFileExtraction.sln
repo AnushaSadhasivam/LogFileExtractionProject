@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogFileExtraction", "LogFileExtraction\LogFileExtraction.csproj", "{C7DEA31F-F78C-4755-98F3-48034138CC5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogFileExtractionTest", "LogFileExtractionTest\LogFileExtractionTest.csproj", "{29344A15-B6D1-4A40-81F6-B0FD1AD2A8CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7DEA31F-F78C-4755-98F3-48034138CC5A}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{C7DEA31F-F78C-4755-98F3-48034138CC5A}.Debug|anycpu.Build.0 = Debug|anycpu
+		{C7DEA31F-F78C-4755-98F3-48034138CC5A}.Release|anycpu.ActiveCfg = Release|anycpu
+		{C7DEA31F-F78C-4755-98F3-48034138CC5A}.Release|anycpu.Build.0 = Release|anycpu
+		{29344A15-B6D1-4A40-81F6-B0FD1AD2A8CC}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{29344A15-B6D1-4A40-81F6-B0FD1AD2A8CC}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{29344A15-B6D1-4A40-81F6-B0FD1AD2A8CC}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{29344A15-B6D1-4A40-81F6-B0FD1AD2A8CC}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE56F26A-9285-4EAB-8230-40114D709E87}
+	EndGlobalSection
+EndGlobal

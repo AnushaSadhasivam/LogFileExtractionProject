@@ -1,0 +1,6 @@
+/Users/sadhaanu/Projects/LogFileExtraction/LogFileExtraction/obj/Debug/LogFileExtraction.csproj.AssemblyReference.cache
+/Users/sadhaanu/Projects/LogFileExtraction/LogFileExtraction/obj/Debug/LogFileExtraction.csproj.CoreCompileInputs.cache
+/Users/sadhaanu/Projects/LogFileExtraction/LogFileExtraction/bin/Debug/LogFileExtraction.exe
+/Users/sadhaanu/Projects/LogFileExtraction/LogFileExtraction/bin/Debug/LogFileExtraction.pdb
+/Users/sadhaanu/Projects/LogFileExtraction/LogFileExtraction/obj/Debug/LogFileExtraction.exe
+/Users/sadhaanu/Projects/LogFileExtraction/LogFileExtraction/obj/Debug/LogFileExtraction.pdb
